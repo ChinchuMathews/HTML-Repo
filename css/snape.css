@@ -7,7 +7,7 @@ body{
 header{
     background-color: black;
     text-align: center;
-    padding-top: 40px;
+    padding: 10px;
 }
 h1,h2{
     
@@ -21,9 +21,11 @@ p, ol,ul{
 header h1{
     font-size: 45px;
     color: white;
+    margin-bottom: 50px;
 }
 
 header img{
+    margin-top: 20px;
     border-radius: 150px;
     width: 350px;
     border: 10px solid #0A2C40 ;
